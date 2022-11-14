@@ -9,7 +9,7 @@ namespace Library
         public int TotalAge{get;set;}  
         public VisitorAge()
         {
-            this.TotalAge= 80;
+            this.TotalAge= 0;
         }
         public override string Content()
         {
